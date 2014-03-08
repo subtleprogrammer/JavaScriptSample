@@ -1,4 +1,3 @@
-
   This is a sample application developed just to show some sample pure JavaScript code done my me.
 
   The best source codes that I have coded and proud of are part of official projects.
@@ -23,6 +22,7 @@ What is the concept and purpose behind this demo app?
 
 
 What are the tools used to develop this?
+
    WebStorm,
    Firebug,
    git
