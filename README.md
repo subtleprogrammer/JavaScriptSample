@@ -1,4 +1,4 @@
-Introduction
+
 
   This is a sample application developed just to show some sample pure JavaScript code done my me.
 
